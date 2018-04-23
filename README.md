@@ -1,4 +1,4 @@
-# Vagrnat LAMP for xtCommerce 5.0.xx
+# Vagrant LAMP for xtCommerce 5.0.xx
 
 This is a LAMP development environment for xtCommerve 5.0.xx that uses Vagrant. Because of some issues in xtCommerce with mysql 5.7 this environment uses mysql 5.6 this issue should be fixed with xtCommerce 5.1.xx
 
